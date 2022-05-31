@@ -1,0 +1,382 @@
+{
+  "user": {
+    "name": "Michael, Francis"
+  },
+  "playlists": [
+    {
+      "title": "joe ",
+      "favorite": false,
+      "tracks": [
+        {
+          "id": "7MOMlY8boylhHArmUSfVX0",
+          "name": "Joe Rogan",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU"
+              },
+              "href": "https://api.spotify.com/v1/artists/6WSTevYt4rGwm8QPKQr7dU",
+              "id": "6WSTevYt4rGwm8QPKQr7dU",
+              "name": "K.A.A.N.",
+              "type": "artist",
+              "uri": "spotify:artist:6WSTevYt4rGwm8QPKQr7dU"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735737f0fc54dea54f24824339",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025737f0fc54dea54f24824339",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515737f0fc54dea54f24824339",
+                "width": 64
+              }
+            ]
+          }
+        },
+        {
+          "id": "5SJY7vuSae1dQRWczkclst",
+          "name": "Joe Rogan",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5NeumLAB759fhEZ61o2Bed"
+              },
+              "href": "https://api.spotify.com/v1/artists/5NeumLAB759fhEZ61o2Bed",
+              "id": "5NeumLAB759fhEZ61o2Bed",
+              "name": "Georgia Maq",
+              "type": "artist",
+              "uri": "spotify:artist:5NeumLAB759fhEZ61o2Bed"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737156a99ff3b184220e82ec86",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027156a99ff3b184220e82ec86",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517156a99ff3b184220e82ec86",
+                "width": 64
+              }
+            ]
+          }
+        },
+        {
+          "id": "1GpU0laDiL2LnqEZDnl4fJ",
+          "name": "6am (Ready to Write) (feat. Joe Rogan)",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6lITXT7V1VIC7nwlgh8ycO"
+              },
+              "href": "https://api.spotify.com/v1/artists/6lITXT7V1VIC7nwlgh8ycO",
+              "id": "6lITXT7V1VIC7nwlgh8ycO",
+              "name": "Beardyman",
+              "type": "artist",
+              "uri": "spotify:artist:6lITXT7V1VIC7nwlgh8ycO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6lrt7LngdzxaQtLIXMraSR"
+              },
+              "href": "https://api.spotify.com/v1/artists/6lrt7LngdzxaQtLIXMraSR",
+              "id": "6lrt7LngdzxaQtLIXMraSR",
+              "name": "Joe Rogan",
+              "type": "artist",
+              "uri": "spotify:artist:6lrt7LngdzxaQtLIXMraSR"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731291817f7e66d254d4998671",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021291817f7e66d254d4998671",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511291817f7e66d254d4998671",
+                "width": 64
+              }
+            ]
+          }
+        },
+        {
+          "id": "6rzJ3zvjE7o84fW4IMBP5i",
+          "name": "Joe Rogan Podcast",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE"
+              },
+              "href": "https://api.spotify.com/v1/artists/0gEenHtJ9puwA63nbY2TAE",
+              "id": "0gEenHtJ9puwA63nbY2TAE",
+              "name": "Nick Lutsko",
+              "type": "artist",
+              "uri": "spotify:artist:0gEenHtJ9puwA63nbY2TAE"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273512b4c0bb202f78a89301dd6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02512b4c0bb202f78a89301dd6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851512b4c0bb202f78a89301dd6",
+                "width": 64
+              }
+            ]
+          }
+        },
+        {
+          "id": "3e5r4vca7LijgASKapwLf6",
+          "name": "My Joe Rogan Experience",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/37bJJ51JuNBNiz4kS0yroc"
+              },
+              "href": "https://api.spotify.com/v1/artists/37bJJ51JuNBNiz4kS0yroc",
+              "id": "37bJJ51JuNBNiz4kS0yroc",
+              "name": "Boxwine",
+              "type": "artist",
+              "uri": "spotify:artist:37bJJ51JuNBNiz4kS0yroc"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730d87f99bf6c0fd28aebde9c1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020d87f99bf6c0fd28aebde9c1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510d87f99bf6c0fd28aebde9c1",
+                "width": 64
+              }
+            ]
+          }
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "MJ",
+      "favorite": false,
+      "tracks": [
+        {
+          "id": "5ChkMS8OtdzJeqyybCc9R5",
+          "name": "Billie Jean",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514121faee8df82c526cbab2be",
+                "width": 64
+              }
+            ]
+          }
+        },
+        {
+          "id": "3FvQH46A4B37eNHjooIXcu",
+          "name": "Bad",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d0593178c6c2594693ee34b7",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d0593178c6c2594693ee34b7",
+                "width": 64
+              }
+            ]
+          }
+        },
+        {
+          "id": "1OOtq8tRnDM8kG2gqUPjAj",
+          "name": "Beat It",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514121faee8df82c526cbab2be",
+                "width": 64
+              }
+            ]
+          }
+        },
+        {
+          "id": "5L9anTQJGLyRObYDYvLWdh",
+          "name": "Unbreakable",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02463de2351439f6532ff0dfbd",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851463de2351439f6532ff0dfbd",
+                "width": 64
+              }
+            ]
+          }
+        },
+        {
+          "id": "7oOOI85fVQvVnK5ynNMdW7",
+          "name": "Rock with You - Single Version",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+              },
+              "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+              "id": "3fMbdgg4jU18AjLCKBhRSm",
+              "name": "Michael Jackson",
+              "type": "artist",
+              "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+          ],
+          "album": {
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027027294551db4fda68b5ddac",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517027294551db4fda68b5ddac",
+                "width": 64
+              }
+            ]
+          }
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "favorites": []
+}
